@@ -48,6 +48,11 @@
 
 ---
 
+## 아키텍쳐
+<img width="1094" height="607" alt="image" src="https://github.com/user-attachments/assets/a2cb537b-d315-4fc4-808b-0a6b143bc577" />
+
+
+---
 
 
 
